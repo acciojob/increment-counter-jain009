@@ -1,3 +1,4 @@
+//your JS code here. If required.
 document.addEventListener("DOMContentLoaded", () => {
   let counterValue = 0;
   
@@ -10,3 +11,5 @@ document.addEventListener("DOMContentLoaded", () => {
     counterElement.textContent = counterValue;
   });
 });
+https://www.svgrepo.com/show/345221/three-dots.svg
+document addEventListnerById("")https://www.svgrepo.com/show/345221/three-dots.svg

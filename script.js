@@ -11,5 +11,5 @@ document.addEventListener("DOMContentLoaded", () => {
     counterElement.textContent = counterValue;
   });
 });
-https://www.svgrepo.com/show/345221/three-dots.svg
-document addEventListnerById("")https://www.svgrepo.com/show/345221/three-dots.svg
+
+document addEventListnerById("")
